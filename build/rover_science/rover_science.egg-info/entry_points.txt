@@ -1,0 +1,6 @@
+[console_scripts]
+rover_carbon_sensor_driver = rover_science.rover_carbon_sensor_driver:main
+rover_dynamixel_driver = rover_science.rover_dynamixel_driver:main
+rover_temp_and_humidity_drivers = rover_science.rover_temp_and_humidity_drivers:main
+rover_vesc_driver = rover_science.rover_vesc_driver:main
+
