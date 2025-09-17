@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>rover_science</name>
+  <version>0.0.1</version>
+  <description>ROS2 package for controlling the team's 2025 URC rover science</description>
+  <maintainer email="robotics@newhaven.edu">NewHavenRobotics</maintainer>
+  <author email="robotics@newhaven.edu">NewHavenRobotics</author>
+  <license>Apache License 2.0</license>
+
+  <!-- <url type="website">http://wiki.ros.org/twist_stamper</url> -->
+  <url type="bugtracker"></url>
+  <url type="repository"></url>
+
+  <test_depend>ament_copyright</test_depend>
+  <test_depend>ament_flake8</test_depend>
+  <test_depend>ament_pep257</test_depend>
+  <test_depend>python3-pytest</test_depend>
+
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+  <exec_depend>ros2_aruco</exec_depend>
+
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

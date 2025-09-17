@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: MAX6675
+Version: 1.0.0
+Summary: Library for accessing the MAX6675 thermocouple temperature sensor on a Raspberry Pi or Beaglebone Black.
+Home-page: https://github.com/tdack/MAX6675/
+Author: Troy Dack
+Author-email: troy@dack.com.au
+License: MIT
+Platform: UNKNOWN
+
+UNKNOWN
+

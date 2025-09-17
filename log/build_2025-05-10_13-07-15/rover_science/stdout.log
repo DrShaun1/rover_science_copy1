@@ -1,0 +1,67 @@
+running egg_info
+creating build/rover_science/rover_science.egg-info
+writing build/rover_science/rover_science.egg-info/PKG-INFO
+writing dependency_links to build/rover_science/rover_science.egg-info/dependency_links.txt
+writing entry points to build/rover_science/rover_science.egg-info/entry_points.txt
+writing requirements to build/rover_science/rover_science.egg-info/requires.txt
+writing top-level names to build/rover_science/rover_science.egg-info/top_level.txt
+writing manifest file 'build/rover_science/rover_science.egg-info/SOURCES.txt'
+reading manifest file 'build/rover_science/rover_science.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file 'build/rover_science/rover_science.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/science/ros2_ws/src/rover_science/build/rover_science/build
+creating /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib
+creating /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+copying rover_science/base_motor_control_gui.py -> /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+copying rover_science/__init__.py -> /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+copying rover_science/rover_dynamixel_driver.py -> /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+copying rover_science/rover_carbon_sensor_driver.py -> /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+copying rover_science/OLD_rover_MQ135_driver.py -> /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+copying rover_science/rover_vesc_driver.py -> /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+copying rover_science/base_sensor_gui.py -> /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+copying rover_science/inductor_feedback_control.py -> /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+copying rover_science/rover_temp_and_humidity_drivers.py -> /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+copying rover_science/rover_temprobe_drivers.py -> /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+running install
+running install_lib
+creating /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+copying /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science/base_motor_control_gui.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+copying /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science/__init__.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+copying /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science/rover_dynamixel_driver.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+copying /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science/rover_carbon_sensor_driver.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+copying /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science/OLD_rover_MQ135_driver.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+copying /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science/rover_vesc_driver.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+copying /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science/base_sensor_gui.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+copying /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science/inductor_feedback_control.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+copying /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science/rover_temp_and_humidity_drivers.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+copying /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science/rover_temprobe_drivers.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+byte-compiling /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science/base_motor_control_gui.py to base_motor_control_gui.cpython-310.pyc
+byte-compiling /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science/rover_dynamixel_driver.py to rover_dynamixel_driver.cpython-310.pyc
+byte-compiling /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science/rover_carbon_sensor_driver.py to rover_carbon_sensor_driver.cpython-310.pyc
+byte-compiling /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science/OLD_rover_MQ135_driver.py to OLD_rover_MQ135_driver.cpython-310.pyc
+byte-compiling /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science/rover_vesc_driver.py to rover_vesc_driver.cpython-310.pyc
+byte-compiling /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science/base_sensor_gui.py to base_sensor_gui.cpython-310.pyc
+byte-compiling /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science/inductor_feedback_control.py to inductor_feedback_control.cpython-310.pyc
+byte-compiling /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science/rover_temp_and_humidity_drivers.py to rover_temp_and_humidity_drivers.cpython-310.pyc
+byte-compiling /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science/rover_temprobe_drivers.py to rover_temprobe_drivers.cpython-310.pyc
+running install_data
+creating /home/science/ros2_ws/src/rover_science/install/rover_science/share/ament_index
+creating /home/science/ros2_ws/src/rover_science/install/rover_science/share/ament_index/resource_index
+creating /home/science/ros2_ws/src/rover_science/install/rover_science/share/ament_index/resource_index/packages
+copying resource/rover_science -> /home/science/ros2_ws/src/rover_science/install/rover_science/share/ament_index/resource_index/packages
+copying package.xml -> /home/science/ros2_ws/src/rover_science/install/rover_science/share/rover_science
+creating /home/science/ros2_ws/src/rover_science/install/rover_science/share/rover_science/launch
+copying launch/all_drivers.launch.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/share/rover_science/launch
+creating /home/science/ros2_ws/src/rover_science/install/rover_science/share/rover_science/config
+copying config/test.yaml -> /home/science/ros2_ws/src/rover_science/install/rover_science/share/rover_science/config
+running install_egg_info
+Copying build/rover_science/rover_science.egg-info to /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science-0.0.1-py3.10.egg-info
+running install_scripts
+Installing rover_carbon_sensor_driver script to /home/science/ros2_ws/src/rover_science/install/rover_science/lib/rover_science
+Installing rover_dynamixel_driver script to /home/science/ros2_ws/src/rover_science/install/rover_science/lib/rover_science
+Installing rover_temp_and_humidity_drivers script to /home/science/ros2_ws/src/rover_science/install/rover_science/lib/rover_science
+Installing rover_vesc_driver script to /home/science/ros2_ws/src/rover_science/install/rover_science/lib/rover_science
+writing list of installed files to '/home/science/ros2_ws/src/rover_science/build/rover_science/install.log'

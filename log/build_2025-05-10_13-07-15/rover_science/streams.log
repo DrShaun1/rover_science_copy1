@@ -1,0 +1,69 @@
+[1.095s] Invoking command in '/home/science/ros2_ws/src/rover_science': PYTHONPATH=/home/science/ros2_ws/src/rover_science/build/rover_science/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/rover_science build --build-base /home/science/ros2_ws/src/rover_science/build/rover_science/build install --record /home/science/ros2_ws/src/rover_science/build/rover_science/install.log --single-version-externally-managed install_data
+[1.384s] running egg_info
+[1.384s] creating build/rover_science/rover_science.egg-info
+[1.385s] writing build/rover_science/rover_science.egg-info/PKG-INFO
+[1.385s] writing dependency_links to build/rover_science/rover_science.egg-info/dependency_links.txt
+[1.385s] writing entry points to build/rover_science/rover_science.egg-info/entry_points.txt
+[1.385s] writing requirements to build/rover_science/rover_science.egg-info/requires.txt
+[1.385s] writing top-level names to build/rover_science/rover_science.egg-info/top_level.txt
+[1.386s] writing manifest file 'build/rover_science/rover_science.egg-info/SOURCES.txt'
+[1.388s] reading manifest file 'build/rover_science/rover_science.egg-info/SOURCES.txt'
+[1.388s] adding license file 'LICENSE'
+[1.389s] writing manifest file 'build/rover_science/rover_science.egg-info/SOURCES.txt'
+[1.389s] running build
+[1.389s] running build_py
+[1.389s] creating /home/science/ros2_ws/src/rover_science/build/rover_science/build
+[1.389s] creating /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib
+[1.390s] creating /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+[1.390s] copying rover_science/base_motor_control_gui.py -> /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+[1.390s] copying rover_science/__init__.py -> /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+[1.390s] copying rover_science/rover_dynamixel_driver.py -> /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+[1.390s] copying rover_science/rover_carbon_sensor_driver.py -> /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+[1.390s] copying rover_science/OLD_rover_MQ135_driver.py -> /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+[1.390s] copying rover_science/rover_vesc_driver.py -> /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+[1.390s] copying rover_science/base_sensor_gui.py -> /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+[1.390s] copying rover_science/inductor_feedback_control.py -> /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+[1.390s] copying rover_science/rover_temp_and_humidity_drivers.py -> /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+[1.391s] copying rover_science/rover_temprobe_drivers.py -> /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science
+[1.391s] running install
+[1.391s] running install_lib
+[1.392s] creating /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+[1.392s] copying /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science/base_motor_control_gui.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+[1.392s] copying /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science/__init__.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+[1.392s] copying /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science/rover_dynamixel_driver.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+[1.392s] copying /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science/rover_carbon_sensor_driver.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+[1.392s] copying /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science/OLD_rover_MQ135_driver.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+[1.393s] copying /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science/rover_vesc_driver.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+[1.393s] copying /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science/base_sensor_gui.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+[1.393s] copying /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science/inductor_feedback_control.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+[1.393s] copying /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science/rover_temp_and_humidity_drivers.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+[1.393s] copying /home/science/ros2_ws/src/rover_science/build/rover_science/build/lib/rover_science/rover_temprobe_drivers.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science
+[1.394s] byte-compiling /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science/base_motor_control_gui.py to base_motor_control_gui.cpython-310.pyc
+[1.395s] byte-compiling /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science/__init__.py to __init__.cpython-310.pyc
+[1.395s] byte-compiling /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science/rover_dynamixel_driver.py to rover_dynamixel_driver.cpython-310.pyc
+[1.397s] byte-compiling /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science/rover_carbon_sensor_driver.py to rover_carbon_sensor_driver.cpython-310.pyc
+[1.398s] byte-compiling /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science/OLD_rover_MQ135_driver.py to OLD_rover_MQ135_driver.cpython-310.pyc
+[1.398s] byte-compiling /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science/rover_vesc_driver.py to rover_vesc_driver.cpython-310.pyc
+[1.399s] byte-compiling /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science/base_sensor_gui.py to base_sensor_gui.cpython-310.pyc
+[1.401s] byte-compiling /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science/inductor_feedback_control.py to inductor_feedback_control.cpython-310.pyc
+[1.402s] byte-compiling /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science/rover_temp_and_humidity_drivers.py to rover_temp_and_humidity_drivers.cpython-310.pyc
+[1.402s] byte-compiling /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science/rover_temprobe_drivers.py to rover_temprobe_drivers.cpython-310.pyc
+[1.403s] running install_data
+[1.403s] creating /home/science/ros2_ws/src/rover_science/install/rover_science/share/ament_index
+[1.403s] creating /home/science/ros2_ws/src/rover_science/install/rover_science/share/ament_index/resource_index
+[1.403s] creating /home/science/ros2_ws/src/rover_science/install/rover_science/share/ament_index/resource_index/packages
+[1.403s] copying resource/rover_science -> /home/science/ros2_ws/src/rover_science/install/rover_science/share/ament_index/resource_index/packages
+[1.403s] copying package.xml -> /home/science/ros2_ws/src/rover_science/install/rover_science/share/rover_science
+[1.403s] creating /home/science/ros2_ws/src/rover_science/install/rover_science/share/rover_science/launch
+[1.403s] copying launch/all_drivers.launch.py -> /home/science/ros2_ws/src/rover_science/install/rover_science/share/rover_science/launch
+[1.403s] creating /home/science/ros2_ws/src/rover_science/install/rover_science/share/rover_science/config
+[1.403s] copying config/test.yaml -> /home/science/ros2_ws/src/rover_science/install/rover_science/share/rover_science/config
+[1.403s] running install_egg_info
+[1.406s] Copying build/rover_science/rover_science.egg-info to /home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages/rover_science-0.0.1-py3.10.egg-info
+[1.407s] running install_scripts
+[1.432s] Installing rover_carbon_sensor_driver script to /home/science/ros2_ws/src/rover_science/install/rover_science/lib/rover_science
+[1.433s] Installing rover_dynamixel_driver script to /home/science/ros2_ws/src/rover_science/install/rover_science/lib/rover_science
+[1.433s] Installing rover_temp_and_humidity_drivers script to /home/science/ros2_ws/src/rover_science/install/rover_science/lib/rover_science
+[1.433s] Installing rover_vesc_driver script to /home/science/ros2_ws/src/rover_science/install/rover_science/lib/rover_science
+[1.433s] writing list of installed files to '/home/science/ros2_ws/src/rover_science/build/rover_science/install.log'
+[1.504s] Invoked command in '/home/science/ros2_ws/src/rover_science' returned '0': PYTHONPATH=/home/science/ros2_ws/src/rover_science/build/rover_science/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/science/ros2_ws/src/rover_science/install/rover_science/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/rover_science build --build-base /home/science/ros2_ws/src/rover_science/build/rover_science/build install --record /home/science/ros2_ws/src/rover_science/build/rover_science/install.log --single-version-externally-managed install_data

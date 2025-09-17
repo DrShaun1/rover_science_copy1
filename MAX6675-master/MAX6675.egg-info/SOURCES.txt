@@ -1,0 +1,9 @@
+README.md
+setup.py
+MAX6675/MAX6675.py
+MAX6675/__init__.py
+MAX6675.egg-info/PKG-INFO
+MAX6675.egg-info/SOURCES.txt
+MAX6675.egg-info/dependency_links.txt
+MAX6675.egg-info/requires.txt
+MAX6675.egg-info/top_level.txt

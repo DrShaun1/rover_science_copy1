@@ -1,2 +1,5 @@
-# rover_science_copy1
-Cloned repo of science assay 
+# rover_science
+ROS2 package for controlling science of the URC 2025 rover.
+
+
+
