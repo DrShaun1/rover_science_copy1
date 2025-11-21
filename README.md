@@ -1,5 +1,3 @@
 # rover_science
-ROS2 package for controlling science of the URC 2025 rover.
-
-
+ROS2 package for controlling science of UNewHaven's URC 2025 rover, specifically for the scinece assay.
 
