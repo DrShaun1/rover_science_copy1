@@ -53,6 +53,7 @@ ROS 2 coordinates communication between the base station and rover hardware, ena
 ### Bioluminescence Assay
 - Mechatronic system drills, liquefies, and delivers soil samples to reaction chamber  
 - Dual-drill system with a **detachable sample cache** for per individual untested soil sample collection
+- ATP detection test using firefly essence in mixed with a liqiuidied soil sample to produce UV and human visible light 
 - Key focus on reliability under URC constraints  
 
 ### High-Temperature Burn Test
